@@ -2,8 +2,8 @@
 // Credentials to connect to mysql database
 val driver = "com.mysql.cj.jdbc.Driver"
 val url = "jdbc:mysql://localhost:3306/books_db"
-val mysqluser = "komalkartanhdfs"
-val password = "KomalKartan@123#"
+val mysqluser = "***********"
+val password = "******"
           
           
 // Loading table data
